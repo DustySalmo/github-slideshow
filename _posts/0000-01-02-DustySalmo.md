@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Fish are friends and **sometimes** food 
 Use the left arrow to go back!
